@@ -1,2 +1,2 @@
-# ds_ml_test
-ds ml workflows
+# ML_sessions
+Repository of material covered in the DS/ML hands-on sessions.
